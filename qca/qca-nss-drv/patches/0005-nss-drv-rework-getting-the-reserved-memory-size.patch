@@ -110,5 +110,5 @@ Signed-off-by: Robert Marko <robimarko@gmail.com>
 +
 +	return SZ_8M;
  }
-
+ 
  /*
